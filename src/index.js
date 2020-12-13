@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+//Integrate boostrap css
+import 'bootstrap/dist/css/bootstrap.css';
+
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

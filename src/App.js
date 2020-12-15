@@ -28,7 +28,7 @@ class App extends React.Component {
       ],
       home: {
         title: 'Keep moving forward.',
-        subTitle: 'Projects to make a Change',
+        subTitle: 'Johnny Luong',
         content: 'See my projects below'
       },
       resume: {

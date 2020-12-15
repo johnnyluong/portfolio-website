@@ -5,7 +5,7 @@ import Card from './Card'
 
 import habitat from '../assets/images/img0.jpg';
 import circle from '../assets/images/img1.jpg';
-import statera from '../assets/images/img2.jpg';
+import quantum from '../assets/images/img2.jpg';
 import { Container, Row } from 'react-bootstrap';
 
 
@@ -37,9 +37,9 @@ class Carousel extends React.Component {
                 },
                 {
                     id: 2,
-                    title: 'Statera',
-                    subTitle: 'The only todo list you\'ll ever need',
-                    imgSrc: statera,
+                    title: 'Quantum Design Intern',
+                    subTitle: 'Software Engineering Intern',
+                    imgSrc: quantum,
                     link: '',
                     selected: false
                 }
